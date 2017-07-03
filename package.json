@@ -1,6 +1,6 @@
 {
   "name": "plex-search",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Search Plex with natural language",
   "main": "index.js",
   "scripts": {
